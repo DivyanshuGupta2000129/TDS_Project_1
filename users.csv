@@ -1,6 +1,6 @@
 login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
 cassidoo,Cassidy Williams,GITHUB,"Chicago, IL",,,Making memes and dreams... and software,165,13382,102,2012-02-20T16:36:23Z
-felangel,Felix Angelov,SHOREBIRDTECH,Chicago,felangelov@gmail.com,,"software engineer by day, software engineer by night.",125,8677,67,2014-09-22T02:35:58Z
+felangel,Felix Angelov,SHOREBIRDTECH,Chicago,felangelov@gmail.com,,"software engineer by day, software engineer by night.",125,8678,67,2014-09-22T02:35:58Z
 dabeaz,David Beazley,"DABEAZ, LLC",Chicago,dave@dabeaz.com,,"Author of the Python Essential Reference (Addison-Wesley), Python Cookbook (O'Reilly), and former computer science professor. Come take a class! ",34,5181,0,2010-08-01T15:22:48Z
 sstephenson,Sam Stephenson,,Chicago,sam@sls.name,,,24,3761,0,2008-03-08T22:17:24Z
 mattgodbolt,Matt Godbolt,AQUATIC CAPITAL MANAGEMENT,"Chicago, IL",matt@godbolt.org,,"Compiler Explorer and jsbeeb creator, ex-Google, ex-games, now trading chap.",84,3398,97,2011-02-23T13:46:48Z
@@ -46,7 +46,7 @@ trek,Trek Glowacki,,"Chicago, IL",,,"I helped start @workantile, couponed at @gr
 Valve,,FINGERPRINT.COM,"Chicago, USA",,,I'm a Ruby on Rails developer but also like golang. Love cycling and reading.,61,575,30,2008-10-03T08:52:38Z
 catarak,Cassie Tarakajian,"PREV @CYCLING74, @PROCESSING","Chicago, IL",,,all technology is political,72,562,14,2013-11-29T03:02:52Z
 scopatz,Anthony Scopatz,,"Chicago, IL",scopatz@gmail.com,,,396,550,269,2010-07-01T22:20:46Z
-ZeweiChu,Zewei Chu,GOOGLE,Chicago,zeweichu@gmail.com,true,"Metaverse, Blockchain, AI, NLP",68,549,287,2012-07-23T12:43:49Z
+ZeweiChu,Zewei Chu,GOOGLE,Chicago,zeweichu@gmail.com,true,"Metaverse, Blockchain, AI, NLP",68,550,287,2012-07-23T12:43:49Z
 peterpme,Peter Piekarczyk,CORAL-XYZ,"Chicago, IL",,,Building Backpack 🎒 ,217,545,253,2011-11-22T02:54:04Z
 bitsondatadev,"Brian ""bits"" Olsen",TRINODB @APACHE,"Chicago, United States",bits@bitsondata.dev,,,46,542,11909,2014-08-25T16:49:19Z
 estrattonbailey,Eric Bailey,BLUESKY-SOCIAL,Chicago,,,Internet person,179,518,452,2013-06-18T21:05:38Z
@@ -203,7 +203,7 @@ noootown,Hung-I Chiu,NATIONAL CHIAO TUNG UNIVERSITY,"Chicago, IL",noootown@gmail
 cdfuller,Cody Fuller,,"Chicago, Illinois",,true,That's my dog. We share this account. She is great at catching bugs,74,200,85,2012-09-09T10:10:45Z
 ReidCarlberg,ReidCarlberg,,"Chicago, IL",reid.carlberg@gmail.com,,,67,200,8,2011-01-19T21:32:48Z
 fsadykov,Farkhod Sadykov,FUCHICORP,Chicago,,true,AWS | GCP | Helm | Terraform | Kubernetes | Python | Bash | Groovy ,62,198,1,2017-07-17T23:49:52Z
-chelseatroy,Chelsea Troy,MOZILLA,Chicago,,true,I write about code and folks seem to like it: chelseatroy.com,128,195,29,2013-10-22T06:31:47Z
+chelseatroy,Chelsea Troy,MOZILLA,Chicago,,true,I write about code and folks seem to like it: chelseatroy.com,128,196,29,2013-10-22T06:31:47Z
 dkarter,Dorian Karter,,Greater Chicago Area,,,"Staff Software Engineer at @pdq
 
 Primary stack: Elixir, TypeScript, React, React Native, Postgres & Kubernetes",231,195,434,2011-01-07T12:45:45Z
